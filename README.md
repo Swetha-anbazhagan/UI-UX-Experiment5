@@ -21,6 +21,7 @@ To Present 2 different UX project scenarios (e.g., designing a health app, an e-
 ## Scenario 1: Designing a Health App for Chronic Disease Management
 
 ## 1. Problem Statements
+
   **Problem Statement 1:**
  "Adults with chronic illnesses need a way to consistently monitor their health metrics because they often forget or struggle to track their progress manually, which results in poor disease management and increased risk of complications."
 
@@ -41,7 +42,9 @@ Justification:
  Chronic disease management involves nuanced, long-term behavior. Diary studies provide insights into how users engage with tracking over time. Interviews reveal emotional pain points, while usability testing ensures the final interface supports users intuitively.
 
 ## 3. User Personas
+
 **Persona 1:**
+
 Name: Ravi Menon
 
 Age: 52
@@ -59,6 +62,7 @@ Pain Points: Forgets to log meals and glucose readings, finds apps with many fea
 Motivations: Wants to remain healthy for his family, avoid hospitalization
 
 **Persona 2:**
+
 Name: Deepa Raj
 
 Age: 34
@@ -115,6 +119,7 @@ Pain Points: Difficulty uploading product photos, understanding product descript
 Motivations: Financial independence and pride in her craft
 
 **Persona 2:**
+
 Name: Arvind Patel
 
 Age: 28
