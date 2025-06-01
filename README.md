@@ -21,10 +21,10 @@ To Present 2 different UX project scenarios (e.g., designing a health app, an e-
 ## Scenario 1: Designing a Health App for Chronic Disease Management
 
 ## 1. Problem Statements
-## Problem Statement 1:
+  **Problem Statement 1:**
  "Adults with chronic illnesses need a way to consistently monitor their health metrics because they often forget or struggle to track their progress manually, which results in poor disease management and increased risk of complications."
 
-## Problem Statement 2:
+   **Problem Statement 2:**
  "Caregivers need a way to access and monitor their patient’s health data remotely because they are not always physically present, which results in missed updates and delayed interventions."
  
 ## 2. Research Methods
@@ -43,31 +43,45 @@ Justification:
 ## 3. User Personas
 **Persona 1:**
 Name: Ravi Menon
+
 Age: 52
+
 Occupation: Bank Manager
+
 Health Condition: Type 2 Diabetes
+
 Goals: Maintain consistent blood sugar levels, avoid complications
+
 Behaviors: Uses phone regularly, checks emails and WhatsApp, avoids manual logging
+
 Pain Points: Forgets to log meals and glucose readings, finds apps with many features confusing
+
 Motivations: Wants to remain healthy for his family, avoid hospitalization
 
 **Persona 2:**
 Name: Deepa Raj
+
 Age: 34
+
 Occupation: Full-time caregiver to her mother
+
 Goals: Monitor her mother’s vitals remotely, ensure medication adherence
+
 Behaviors: Tech-savvy, checks mobile notifications frequently
+
 Pain Points: Cannot be physically present 24/7, lacks real-time visibility into her mother’s health status
+
 Motivations: Peace of mind and timely action if health declines
 
 
 ## Scenario 2: Designing an E-commerce Website for Local Handicrafts
+
 ## 1. Problem Statements
 
-## Problem Statement 1:
+**Problem Statement 1:**
  "First-time online shoppers in rural areas need a way to confidently purchase handicrafts online because they are unfamiliar with digital payment and shipping processes, which results in distrust and abandoned carts."
 
-## Problem Statement 2:
+**Problem Statement 2:**
  "Local artisans need a way to showcase and sell their products digitally because they lack marketing experience, which results in poor visibility and limited sales."
 
 ## 2. Research Methods
@@ -83,23 +97,38 @@ Justification:
 ## 3. User Personas
 
  **Persona 1:**
+ 
 Name: Latha Kumari
+
 Age: 47
+
 Occupation: Artisan (weaver)
+
 Location: Rural Tamil Nadu
+
 Goals: Reach new customers, sell more without needing a middleman
+
 Behaviors: Uses WhatsApp, doesn’t fully trust online platforms
+
 Pain Points: Difficulty uploading product photos, understanding product descriptions in English
+
 Motivations: Financial independence and pride in her craft
 
 **Persona 2:**
 Name: Arvind Patel
+
 Age: 28
+
 Occupation: School Teacher
+
 Location: Small town in Gujarat
+
 Goals: Buy authentic local products to support artisans
+
 Behaviors: Shops online occasionally, prefers COD (Cash on Delivery)
+
 Pain Points: Poor product descriptions, worries about quality and returns
+
 Motivations: Supporting local culture, getting value for money
 
 
